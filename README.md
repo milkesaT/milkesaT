@@ -31,6 +31,17 @@ Building reliable hardware–software integrated systems
 
 Solving real-world problems in infrastructure, agriculture, healthcare, and connectivity
 
+🧠 Skills & Technologies
+
+Programming Languages & Tools
+
+Python – scripting, automation, IoT integration
+
+C / C++ – embedded systems, competitive programming
+
+Data Structures & Algorithms (DSA) – problem solving, optimization
+
+MATLAB – simulations, signal processing, communication systems   
 <!--
 **milkesaT/milkesaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
