@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Milkesa Tesema
 Building real-world systems with smart hardware–software integration.
+
 I’m an ECE student passionate about IoT, embedded systems, communication networks, and AI experimentation, creating solutions that connect devices and people. I’m also mastering algorithms, data structures, and real-world problem-solving through competitive programming.
 
 🎯 Current Focus
