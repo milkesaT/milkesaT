@@ -41,7 +41,16 @@ C / C++ – embedded systems, competitive programming
 
 Data Structures & Algorithms (DSA) – problem solving, optimization
 
-MATLAB – simulations, signal processing, communication systems   
+MATLAB – simulations, signal processing, communication systems  
+
+🛠️ Core Expertise & Tech Stack
+
+Programming & Problem Solving
+
+Python | C / C++ | Data Structures & Algorithms (DSA) | MATLAB
+
+ “Engineering solutions that connect technology, AI, and real-world impact.”
+    
 <!--
 **milkesaT/milkesaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
